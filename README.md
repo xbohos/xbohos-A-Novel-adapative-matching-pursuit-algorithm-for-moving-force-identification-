@@ -6,10 +6,6 @@ If you use this code, please cite 'Xu B H, Yu L. A novel regularized adaptive ma
 Note : huisuRAMP.m and selection1.m are the main function for NRAMP algorithm. They are contained in single impluse force (main0515.m) and two moving forces (main0514_1.m) simulations. There's no need for further enhancement of the
 function to simulate additional axles. Users can improve or modify it as needed since this algorithm is easy to understand! 😊
 
-yidonghezaishibie00.m : the function to generate the system matrix under single moving load.
-
-ydhzsbdouble_systemmatrix.m : the function to generate the system matrix under two moving load.
-
 ydhzdouble_force.m : the function to obtain the force vecoter.
 
 CS_OMP.m : the function of orthogonal matching pursuit algorithm (OMP).
